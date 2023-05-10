@@ -1,3 +1,3 @@
 # AISmap_app
 
-jsalacoro.github.io
+jsalacoro.github.io/AISmap_app
